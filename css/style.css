@@ -1,5 +1,15 @@
 /* My Styles */
 
 body {
-    background: lightgray;
-}
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  h1 {
+    background: aquamarine;
+    color:white;
+  }
+  
