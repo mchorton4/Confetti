@@ -1,7 +1,7 @@
 /* My Styles */
 
 body {
-    background-color: lightgray;
+    background-color: white;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -9,7 +9,8 @@ body {
   }
   
   h1 {
-    background: aquamarine;
-    color:white;
+    font-family:'Sharpie-Regular';
+    font-size: 7em;
+    color:aquamarine;
   }
   
