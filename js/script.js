@@ -2,6 +2,8 @@
 
 console.log('Page Loaded');
 
+new CircleType(document.getElementById('demo3'));
+
 //Run it
 let confetti = new Confetti("confetti");
 // let confetti2 = new Confetti('confetti2');
