@@ -18,5 +18,7 @@ h2 {
     color: black;
     font-size: 5em;
     font-family: 'Sharpie-Regular';
+    align-items: center;
+    justify-content: center;
   }
   
