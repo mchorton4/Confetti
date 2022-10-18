@@ -13,4 +13,8 @@ body {
     font-size: 7em;
     color:aquamarine;
   }
+h2 {
+    /*   curve-text: 45deg; */
+    color: skyblue;
+  }
   
