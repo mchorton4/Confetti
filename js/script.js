@@ -7,6 +7,9 @@ console.log('Page Loaded');
 let confetti = new Confetti("confetti");
 // let confetti2 = new Confetti('confetti2');
 
+new CircleType(document.getElementById('demo3'));
+
+
 // Optionalize it- Edit given parameters
 confetti.setCount(100);
 confetti.setSize(2);
@@ -14,4 +17,3 @@ confetti.setPower(25);
 confetti.setFade(false);
 confetti.destroyTarget(false);
 
-new CircleType(document.getElementById('demo3'));
