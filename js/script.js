@@ -6,8 +6,6 @@
 
 new CircleType(document.getElementById("demo3"));
 
-console.log("Page Loaded");
-
 //Run it
 let confetti = new Confetti("confetti");
 // let confetti2 = new Confetti('confetti2');
@@ -20,3 +18,4 @@ confetti.setPower(25);
 confetti.setFade(false);
 confetti.destroyTarget(false);
 
+console.log("Page Loaded");
