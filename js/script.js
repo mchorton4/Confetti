@@ -1,14 +1,14 @@
 // My Scripts
 
+new CircleType(document.getElementById('demo3'));
+
+
 console.log('Page Loaded');
 
 
 //Run it
 let confetti = new Confetti("confetti");
 // let confetti2 = new Confetti('confetti2');
-
-new CircleType(document.getElementById('demo3'));
-
 
 // Optionalize it- Edit given parameters
 confetti.setCount(100);
