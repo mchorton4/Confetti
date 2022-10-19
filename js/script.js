@@ -1,14 +1,17 @@
+//https://confettijs.org/confetti.min.js
+//https://codepen.io/Malia_Horton4/pen/qBYLawe.js
+//https://codepen.io/Malia_Horton4/pen/yLjZjKX.js
+
 // My Scripts
 
-new CircleType(document.getElementById('demo3'));
+new CircleType(document.getElementById("demo3"));
 
-
-console.log('Page Loaded');
-
+console.log("Page Loaded");
 
 //Run it
 let confetti = new Confetti("confetti");
 // let confetti2 = new Confetti('confetti2');
+
 
 // Optionalize it- Edit given parameters
 confetti.setCount(100);
