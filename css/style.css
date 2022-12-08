@@ -7,14 +7,7 @@ body {
     height: 100vh;
   }
   
-  h1 {
-      align-items: center;
-    justify-content: center;
-    font-family: 'Sharpie-Bold';
-    font-size: 7em;
-    color:aquamarine;
-  }
-h2 {
+h1 {
     /*   curve-text: 45deg; */
     color: grey;
     font-size: 5em;
